@@ -1,0 +1,11 @@
+OSCA Logo (Office for Senior Citizens Affairs) - City of Caloocan
+
+DESCRIPTION:
+- Circular logo with thin black border
+- Bright green outer ring
+- Black text on green ring: "CITY OF CALOOCAN" (top) and "OFFICE FOR SENIOR CITIZENS AFFAIRS" (bottom)
+- Small black five-pointed stars as separators
+- White inner circle
+- Large orange "OSCA" acronym in center (bubbly, rounded letters)
+
+RECOMMENDED FILENAME: osca-logo.png or osca-logo.jpg

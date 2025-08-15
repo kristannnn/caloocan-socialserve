@@ -1,0 +1,12 @@
+Caloocan City Seal/Emblem
+
+DESCRIPTION:
+- Circular emblem with thick orange outer border
+- White ring containing text: "MAKASAYSAYANG LUNGSOD NG CALOOCAN"
+- Inner circle split vertically: blue left half, red right half
+- Large yellow sun with rays overlapping both halves
+- White five-pointed stars scattered on both sides
+- Central grayscale Bonifacio Monument
+- Bottom: Green laurel branches, "PILIPINAS", and "1962"
+
+RECOMMENDED FILENAME: caloocan-seal.png or caloocan-seal.jpg

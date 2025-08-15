@@ -1,0 +1,10 @@
+PDAO Logo (Persons with Disability Affairs Office) - Caloocan City
+
+DESCRIPTION:
+- Circular logo with white background
+- Central green gradient circle (lime green to forest green)
+- White wheelchair icon with person in motion
+- Text encircling: "CALOOCAN CITY • PERSONS WITH DISABILITY AFFAIRS OFFICE"
+- Black sans-serif font, all caps
+
+RECOMMENDED FILENAME: pdao-logo.png or pdao-logo.jpg

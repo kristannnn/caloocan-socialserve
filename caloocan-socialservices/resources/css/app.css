@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        font-family: 'Poppins', sans-serif;
+    }
+}
+
+@layer components {
+    .service-card {
+        @apply bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-2 cursor-pointer;
+    }
+    
+    .service-card:hover {
+        @apply shadow-2xl;
+    }
+    
+    .gradient-bg {
+        background: linear-gradient(135deg, #ff6600 0%, #ff8829 50%, #ffb366 100%);
+    }
+    
+    .hero-pattern {
+        background-image: 
+            radial-gradient(circle at 25% 25%, rgba(255, 102, 0, 0.1) 0%, transparent 50%),
+            radial-gradient(circle at 75% 75%, rgba(255, 136, 41, 0.1) 0%, transparent 50%);
+    }
+}

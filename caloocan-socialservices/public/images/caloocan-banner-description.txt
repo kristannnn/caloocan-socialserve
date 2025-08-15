@@ -1,0 +1,13 @@
+Caloocan City Banner/Header
+
+DESCRIPTION:
+- Horizontal banner with white background and light gray diagonal lines
+- Left side: Two 3D white shapes representing North and South Caloocan
+- Center: Circular logo with lighthouse, stars, and sun rays
+- Main text: "PAMAHALAANG LUNGSOD NG CALOOCAN" (thin purple line above)
+- "CALOOCAN" with "CALOO" in dark purple, "CAN" in vibrant orange
+- Slogan: "BATANG KANKALOO" in bold green
+- Right side: Bronze monument photograph (Bonifacio Monument)
+- Bottom right: Contact information and social media accounts overlay
+
+RECOMMENDED FILENAME: caloocan-banner.png or caloocan-banner.jpg
